@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sovereign Wealth Funds in 2024</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver"></script>
+  <script src="https://unpkg.com/scrollama"></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
+<header>
+<header>
+  <div class="header-content">
+    <p class="byline">Fondos Soberanos 2024</p>
+    <h1>Una mirada regional a la inversión estatal</h1>
+     <p>Los fondos soberanos de inversión (SWFs por sus siglas en inglés) gestionan más de <span class="destacado">13 billones de dólares</span> en activos y son actores clave de la economía global. Su influencia va desde las <span class="destacado">energías renovables</span> hasta las <span class="destacado">infrastructuras digitales</span>, pasando por la <span class="destacado">transición climática</span> y el desarrollo de <span class="destacado">mercados emergentes</span>.
+    El objetivo de esta página es mostrar cómo se distribuyen e invierten los fondos soberanos por regiones, destacando casos clave y retos futuros.</p>
+  </div>
+</header>
+
+<div class="container">
+  <div>
+    <p class="byline">mapa: activos gestionados por los fondos soberanos, por país</p>
+    <p>Billones de dólares, datos de 2024.</p>
+    <p style="font-size: .8rem !important;">💡 Haz click en los círculos para ver qué fondos soberanos operan en cada país.</p>
+    </p>
+  </div>
+  <iframe 
+    src="https://umap.openstreetmap.fr/en/map/sovereign-wealth-funds-by-country-2024_1288828"
+    style="width:100%; height:600px; border:none; display:block;"
+    allowfullscreen
+    loading="lazy">
+  </iframe>
+  <p>FUENTE: Sovereign Wealth Funds, IE Univerity (2024)</p>
+</div>
+
+  <div class="container">
+    <p>El panorama de los fondos soberanos está compuesto por más de 90 entidades activas distribuidas en todos los continentes. Sin embargo, su peso no está repartido de forma equitativa: <span class="destacado">los diez mayores fondos concentran cerca del 70% de los activos mundiales</span>, lo que refleja una enorme concentración de capital.</p>
+    <p>Noruega es el mayor fondo soberano del planeta, con unos activos de más de 1.770 billones de dólares (miles de millones europeos), mientras que en Oriente Medio los gigantes de Arabia Saudí, Emiratos y Qatar convierten este punto geoestratégico en un gran centro de capital estatal. Asia, China y Singapur refuerzan este mapa en desequilibrio, con carteras que abarcan desde energía y finanzas hasta tecnología punta.</p>
+    <p><span class="destacado">El contraste es evidente:</span> frente a esos pocos gigantes que mueven billones de dólares, otros países se presentan con fondos mucho más modestos que, sin embargo, cumplen un papel estratégico dentro de sus economías nacionales.
+    Su existencia y la tendencia al alza de este tipo de vehículos en la inversión nacional demuestran la importancia que están ganando como herramienta estratégica para el desarrollo justo, la estabilidad económica y el ahorro intergeneracional.</p>
+    <p>Cada región refleja una combinación distinta de prioridades: diversificación económica en Oriente Medio, innovación y digitalización en Asia, infraestructuras y energía en África, o sostenibilidad en Europa. Esta diversidad ayuda a entender cómo los fondos soberanos no son solo instrumentos financieros, sino también herramientas políticas y estratégicas adaptadas al contexto de cada país.</p>
+  </div>
+
+  <section class="scrolly">
+    <div class="sticky-graphic" id="graphic"></div>
+    <div class="scrolly-steps">
+      <div class="step" data-step="1">
+        <h3>Título de esta sección</h3>
+        Global assets under management (AUM) of sovereign wealth funds reached a record $11.2 trillion in 2024. This historic figure is the result of high energy prices, disciplined savings from commodity revenues, and the strategic allocation of surplus reserves in non-commodity-based funds.
+      </div>
+      <div class="step" data-step="2">
+        <h3>Título de esta sección</h3>
+        Transparency and governance are critical themes in 2024. The Santiago Principles have served as a benchmark for responsible investing, and over 70 sovereign wealth funds now align themselves formally or informally with them.
+      </div>
+      <div class="step" data-step="3">
+        <h3>Título de esta sección</h3>
+        Environmental, Social, and Governance (ESG) criteria are now central to sovereign investment strategies. Nearly 90% of major sovereign funds report integrating ESG factors into portfolio selection and risk management processes.
+      </div>
+      <div class="step" data-step="4">
+        <h3>Título de esta sección</h3>
+        Sovereign funds are evolving from passive investors to strategic actors. A strong shift toward direct investment—particularly in unlisted markets such as infrastructure, real estate, and private equity—marks the current landscape.
+      </div>
+    </div>
+  </section>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script>
+  const scroller = scrollama();
+  const graphic = document.getElementById("graphic");
+
+  // Inicializar Leaflet en el div #graphic
+  const map = L.map(graphic).setView([20, 0], 2);
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: "© OpenStreetMap contributors"
+  }).addTo(map);
+
+  // Cargar datos exportados de tu uMap (GeoJSON)
+  fetch("swf_2024.geojson")
+    .then(res => res.json())
+    .then(data => {
+      L.geoJSON(data, {
+        onEachFeature: (feature, layer) => {
+          if (feature.properties && feature.properties.name) {
+            layer.bindPopup(`<strong>${feature.properties.name}</strong>`);
+          }
+        }
+      }).addTo(map);
+    });
+
+  // Coordenadas y zoom para cada paso
+  const steps = {
+    1: { coords: [20, 0], zoom: 2 },   // Global
+    2: { coords: [55, 10], zoom: 4 },  // Europa
+    3: { coords: [25, 45], zoom: 5 },  // Oriente Medio
+    4: { coords: [20, 80], zoom: 4 }   // Asia
+  };
+
+  scroller
+    .setup({
+      step: ".step",
+      offset: 0.5,
+      debug: false
+    })
+    .onStepEnter(response => {
+      const stepData = steps[response.index + 1];
+      if (stepData) {
+        map.flyTo(stepData.coords, stepData.zoom, { duration: 2 });
+      }
+    });
+
+  window.addEventListener("resize", scroller.resize);
+</script>
+
+</body>
+</html>

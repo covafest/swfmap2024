@@ -1,0 +1,162 @@
+
+body {
+  font-family: Montserrat;
+  font-size: 16px;
+  line-height: 1.8;
+  margin: 0;
+  color: #0a1d37;
+  background-color: #fff;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size:3rem;
+  line-height: 3rem;
+  color:#fff;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  line-height: 1.5rem;
+}
+
+.byline {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.9rem;
+  font-weight: bold;
+  line-height: 0;
+  color: navy;
+  margin-bottom: 0rem;
+  text-transform: uppercase;
+}
+
+.destacado {
+  font-weight: 550;
+
+}
+
+.fuente {
+  color: navy;
+}
+
+header {
+  position: relative;
+  height: auto;
+  width: 80%;
+  margin: 0 auto;
+  background: #fff;
+  overflow: visible;
+  padding-top: 2.5rem;
+  padding-bottom: 1.5rem;
+  box-shadow: none;
+}
+
+.header-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* alinea a la izquierda */
+  text-align: left;        /* texto alineado a la izquierda */
+  width: 100%;
+}
+
+.header-content h1 {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 4rem;
+  font-weight: 900;
+  line-height: 1.1;
+  color: #111;
+  text-align: left;
+  margin: 0 0 .5rem 0;
+  letter-spacing: -1px;
+  text-shadow: none;
+}
+
+.header-content .byline {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: navy;
+  margin-bottom: .5rem;
+  line-height: 1.2;
+  text-align: left;
+  text-transform: none;
+  text-transform: uppercase;
+}
+
+.header-content p {
+  font-weight: 600;
+}
+
+iframe {
+  width: 100%;
+  max-width: 100vw;
+  border: none;
+  display: block;
+}
+
+.container {
+  position: relative;
+  height: auto;
+  width: 80%;
+  margin: 0 auto;
+  background: #fff;
+  overflow: visible;
+  padding-top: 2.5rem;
+  padding-bottom: 1.5rem;
+  box-shadow: none;
+}
+
+
+.scrolly {
+  position: relative;
+  display: flex;
+}
+
+.sticky-graphic {
+  position: sticky;
+  top: 0;
+  height: 100vh;   /* el mapa ocupa toda la pantalla */
+  flex: 1;
+}
+
+.scrolly-steps {
+  flex: 1;
+  margin: 0 2em;
+}
+
+.step {
+  margin: 80vh 0;
+  padding: 2em;
+  background: rgba(255,255,255,0.9);
+  border-radius: 8px;
+  color:#afafaf;
+}
+
+.step.is-active {
+  color: #0a1d37;
+}
+
+/* Responsive styles */
+@media (max-width: 600px) {
+  header {
+    height: 40vh;
+  }
+  h1 {
+    font-size: 1.3rem;
+  }
+  .container {
+    padding: 0 0.5rem;
+  }
+  .step {
+    padding: 1rem;
+    font-size: 1rem;
+    margin-bottom: 30vh;
+  }
+  .sticky-graphic {
+    font-size: 2rem;
+  }
+  .scrolly-steps {
+    padding: 2vh 0.5rem;
+  }
+}

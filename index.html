@@ -72,31 +72,58 @@
   const scroller = scrollama();
   const graphic = document.getElementById("graphic");
 
-  // Inicializar Leaflet en el div #graphic
+  // Inicializar Leaflet
   const map = L.map(graphic).setView([20, 0], 2);
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "© OpenStreetMap contributors"
   }).addTo(map);
 
-  // Cargar datos exportados de tu uMap (GeoJSON)
-  fetch("swf_2024.geojson")
+  // Cargar capa de fondos soberanos
+  fetch("funds.geojson")   // 👈 aquí va tu archivo exportado de la capa de fondos
     .then(res => res.json())
     .then(data => {
       L.geoJSON(data, {
+        pointToLayer: (feature, latlng) => {
+          const aum = feature.properties["Assets Under Management"] || 0;
+          const radius = Math.sqrt(aum) / 2; // escala simple para radios
+
+          return L.circleMarker(latlng, {
+            radius: radius,
+            fillColor: "#001f3f", // azul navy
+            color: "#001f3f",     // borde igual
+            weight: 1,
+            opacity: 0.8,
+            fillOpacity: 0.5
+          });
+        },
         onEachFeature: (feature, layer) => {
-          if (feature.properties && feature.properties.name) {
-            layer.bindPopup(`<strong>${feature.properties.name}</strong>`);
+          // Recolectar todos los fondos listados en funds_1 ... funds_9
+          let fondos = [];
+          for (let i = 1; i <= 9; i++) {
+            const key = `funds_${i}`;
+            if (feature.properties[key]) {
+              fondos.push(feature.properties[key]);
+            }
           }
+
+          layer.bindPopup(`
+            <strong>${feature.properties["Sovereign Wealth Fund"]}</strong><br>
+            País: ${feature.properties.Country}<br>
+            AUM: ${feature.properties["Assets Under Management_formated"]}<br>
+            Año de creación: ${feature.properties["Establishment year"]}<br>
+            <em>Fondos soberanos en este país:</em><br>
+            ${fondos.join("<br>")}
+          `);
         }
       }).addTo(map);
     });
 
-  // Coordenadas y zoom para cada paso
+  // Scrollama: zoom por paso
   const steps = {
-    1: { coords: [20, 0], zoom: 2 },   // Global
-    2: { coords: [55, 10], zoom: 4 },  // Europa
-    3: { coords: [25, 45], zoom: 5 },  // Oriente Medio
-    4: { coords: [20, 80], zoom: 4 }   // Asia
+    1: { coords: [20, 0], zoom: 2 },
+    2: { coords: [55, 10], zoom: 4 },
+    3: { coords: [25, 45], zoom: 5 },
+    4: { coords: [20, 80], zoom: 4 }
   };
 
   scroller
@@ -114,6 +141,7 @@
 
   window.addEventListener("resize", scroller.resize);
 </script>
+
 
 </body>
 </html>

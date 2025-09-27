@@ -1,0 +1,4062 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.651768783079,
+          -12.167424062667942
+        ]
+      },
+      "properties": {
+        "country": "Angola",
+        "aum_total": 2.17,
+        "aum_total_formated": "$2.17 billones de dólares",
+        "funds_1": "Fundo Soberano de Angola ($2.17 bn)",
+        "name": "Angola"
+      },
+      "id": "6nEis"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.600958178225596,
+          24.136038144757897
+        ]
+      },
+      "properties": {
+        "country": "Saudi Arabia",
+        "aum_total": 1447,
+        "aum_total_formated": "$1,447.0 billones de dólares",
+        "funds_1": "Public Investment Fund ($978.0 bn)",
+        "funds_2": "Saudi Arabian Monetary Authority ($469.0 bn)",
+        "name": "Arabia Saudí"
+      },
+      "id": "Ht1Kk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.02277170916162,
+          -25.697337673983082
+        ]
+      },
+      "properties": {
+        "country": "Australia",
+        "aum_total": 224.9,
+        "aum_total_formated": "$224.9 billones de dólares",
+        "funds_1": "Future Fund ($224.9 bn)",
+        "name": "Australia"
+      },
+      "id": "KAMU4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.634592670644324,
+          40.3920509942049
+        ]
+      },
+      "properties": {
+        "country": "Azerbaijan",
+        "aum_total": 58,
+        "aum_total_formated": "$58.0 billones de dólares",
+        "funds_1": "State Oil Fund of the Republic of Azerbaijan ($58.0 bn)",
+        "name": "Azerbayán"
+      },
+      "id": "FOirR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.540695402276775,
+          26.04798501537066
+        ]
+      },
+      "properties": {
+        "country": "Bahrain",
+        "aum_total": 18.68,
+        "aum_total_formated": "$18.68 billones de dólares",
+        "funds_1": "Bahrain Mumtalakat Holding Company ($18.0 bn)",
+        "funds_2": "Future Generations Fund ($0.68 bn)",
+        "name": "Baréin"
+      },
+      "id": "3bLGz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85779956995608,
+          -22.236609002062902
+        ]
+      },
+      "properties": {
+        "country": "Botswana",
+        "aum_total": 4.52,
+        "aum_total_formated": "$4.52 billones de dólares",
+        "funds_1": "Pula Fund ($4.52 bn)",
+        "name": "Botsuana"
+      },
+      "id": "r18n9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6430958360464,
+          4.543205889917609
+        ]
+      },
+      "properties": {
+        "country": "Brunei Darussalam",
+        "aum_total": 53,
+        "aum_total_formated": "$53.0 billones de dólares",
+        "funds_1": "Brunei Investment Agency ($53.0 bn)",
+        "name": "Brunei"
+      },
+      "id": "dBIyW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.41680517868062,
+          57.550480044655636
+        ]
+      },
+      "properties": {
+        "country": "Canada",
+        "aum_total": 37.6,
+        "aum_total_formated": "$37.6 billones de dólares",
+        "funds_1": "Alberta Heritage Savings Trust Fund ($23.4 bn)",
+        "funds_2": "Quebec’s Generations Fund ($13.66 bn)",
+        "funds_3": "Northwest Territories Heritage Fund ($0.54 bn)",
+        "name": "Canadá"
+      },
+      "id": "EaIan"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.19794918743203,
+          25.318528486425386
+        ]
+      },
+      "properties": {
+        "country": "Qatar",
+        "aum_total": 510,
+        "aum_total_formated": "$510.0 billones de dólares",
+        "funds_1": "Qatar Investment Authority ($510.0 bn)",
+        "name": "Catar"
+      },
+      "id": "dlzdl"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.76863431739216,
+          -37.82938283049967
+        ]
+      },
+      "properties": {
+        "country": "Chile",
+        "aum_total": 22.19,
+        "aum_total_formated": "$22.19 billones de dólares",
+        "funds_1": "Fondo de Reserva de Pensiones ($9.54 bn)",
+        "funds_2": "Fondo de Estabilidad Económica y Social ($4.7 bn)",
+        "name": "Chile"
+      },
+      "id": "Ev2qn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          104.339577,
+          38.211503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "country": "China",
+        "aum_total": 2374.95,
+        "aum_total_formated": "$2,374.95 billones de dólares",
+        "funds_1": "China Investment Corporation ($1.332 bn)",
+        "funds_2": "State Administration of Foreign Exchange ($1098.0 bn)",
+        "funds_3": "Hong Kong Monetary Authority ($513. 0bn)",
+        "funds_4": "National Social Security Fund ($414.0 bn)",
+        "funds_5": "China-Africa Development Fund ($10.0 bn)",
+        "name": "China"
+      },
+      "id": "jhZd5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.375346009199205,
+          35.11700416345239
+        ]
+      },
+      "properties": {
+        "country": "Cyprus",
+        "aum_total": 0.75,
+        "aum_total_formated": "$0.75 billones de dólares",
+        "funds_1": "National Investment Fund ($0.75 bn)",
+        "name": "Chipre"
+      },
+      "id": "L8w7O"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6445066243485,
+          4.187753877352739
+        ]
+      },
+      "properties": {
+        "country": "Colombia",
+        "aum_total": 4.3,
+        "aum_total_formated": "$4.3 billones de dólares",
+        "funds_1": "Fondo de Ahorro y Estabilización ($4.3 bn)",
+        "name": "Colombia"
+      },
+      "id": "T96ep"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.419827574282188,
+          -3.338629596207896
+        ]
+      },
+      "properties": {
+        "country": "Congo DRC",
+        "aum_total": 0.02,
+        "aum_total_formated": "$0.02 billones de dólares",
+        "funds_1": "Fonds de Stabilisation des Recettes Budgétaires et Réserves pour Générations Futures ($0.02 bn)",
+        "name": "Congo DRC"
+      },
+      "id": "wXaDh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.76224551357649,
+          36.402386712544114
+        ]
+      },
+      "properties": {
+        "country": "South Korea",
+        "aum_total": 189.4,
+        "aum_total_formated": "$189.4 billones de dólares",
+        "funds_1": "Korea Investment Corporation ($189.4 bn)",
+        "name": "Corea del Sur"
+      },
+      "id": "jM7NI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.613496898789506,
+          11.750235727618804
+        ]
+      },
+      "properties": {
+        "country": "Djibouti",
+        "aum_total": 0.17,
+        "aum_total_formated": "$0.17 billones de dólares",
+        "funds_1": "Fonds Souverain de Djibouti ($0.17 bn)",
+        "name": "Diyibuti"
+      },
+      "id": "roKx7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.240135435012338,
+          26.60517034450628
+        ]
+      },
+      "properties": {
+        "country": "Egypt",
+        "aum_total": 2,
+        "aum_total_formated": "$2.0 billones de dólares",
+        "funds_1": "The Sovereign Fund of Egypt ($2.0 bn)",
+        "name": "Egipto"
+      },
+      "id": "jBv9a"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.27920525789581,
+          24.18250292309135
+        ]
+      },
+      "properties": {
+        "country": "United Arab Emirates",
+        "aum_total": 2147.1,
+        "aum_total_formated": "$2,147.0 billones de dólares",
+        "funds_1": "Abu Dhabi Investment Authority ($993.0 bn)",
+        "funds_2": "Investment Corporation of Dubai ($360.0 bn)",
+        "funds_3": "Mubadala Investment Company ($302.0bn)",
+        "funds_4": "ADQ ($249.0 bn)",
+        "funds_5": "Emirates Investment Authority ($91.0 bn",
+        "funds_6": "Dubai World ($80.0 bn)",
+        "funds_7": "Dubai Holding ($72.1 bn)",
+        "name": "Emiratos Árabes Unidos"
+      },
+      "id": "91NcW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6516251409956983,
+          40.365008336683836
+        ]
+      },
+      "properties": {
+        "country": "Spain",
+        "aum_total": 4.97,
+        "aum_total_formated": "$4.97 billones de dólares",
+        "funds_1": "COFIDES ($4.97 bn)",
+        "name": "España"
+      },
+      "id": "KXcoL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -100.594312,
+          38.649412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "country": "United States",
+        "aum_total": 219.81,
+        "aum_total_formated": "$219.81 billones de dólares",
+        "funds_1": "Alaska Permanent Fund ($79.1 bn)",
+        "funds_2": "Texas Permanent School Fund ($56.8 bn)",
+        "funds_3": "New Mexico State Investment Council ($53.3 bn)",
+        "funds_4": "Permanent Wyoming Mineral Trust Fund ($11.36 bn)",
+        "funds_5": "North Dakota Legacy Fund ($10.87 bn)",
+        "funds_6": "Idaho Endowment Fund ($3.41 bn)",
+        "funds_7": "Alabama Trust Fund ($3.4 bn)",
+        "funds_8": "Louisiana Education Quality Trust Fund ($1.57 bn)",
+        "funds_9": "United States ($0.0 bn)",
+        "name": "Estados Unidos"
+      },
+      "id": "Xe7Bn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.914902886544276,
+          8.729389557048396
+        ]
+      },
+      "properties": {
+        "country": "Ethiopia",
+        "aum_total": 46,
+        "aum_total_formated": "$46.0 billones de dólares",
+        "funds_1": "Ethiopian Investment Holdings (EIH) ($46.0 bn)",
+        "name": "Etiopía"
+      },
+      "id": "5l0Yn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.82208941416745,
+          15.586542251094242
+        ]
+      },
+      "properties": {
+        "country": "Philippines",
+        "aum_total": 8.9,
+        "aum_total_formated": "$8.9 billones de dólares",
+        "funds_1": "Maharlika Investment Fund ($8.9 bn)",
+        "name": "Filipinas"
+      },
+      "id": "kOiJ8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1940236627886227,
+          46.6423682169416
+        ]
+      },
+      "properties": {
+        "country": "France",
+        "aum_total": 36,
+        "aum_total_formated": "$36.0 billones de dólares",
+        "funds_1": "BpiFrance ($36.0 bn)",
+        "name": "Francia"
+      },
+      "id": "kFU3E"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.839410898545754,
+          -0.628448459921234
+        ]
+      },
+      "properties": {
+        "country": "Gabon",
+        "aum_total": 1.89,
+        "aum_total_formated": "$1.89 billones de dólares",
+        "funds_1": "Fonds Gabonais d’Investissements Stratégiques ($1.89 bn)",
+        "name": "Gabón"
+      },
+      "id": "5mzKj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.378866534112234,
+          42.17986277737226
+        ]
+      },
+      "properties": {
+        "country": "Georgia",
+        "aum_total": 0.147,
+        "aum_total_formated": "$0.147 billones de dólares",
+        "funds_1": "JSC Development Fund of Georgia ($0.147 bn)",
+        "name": "Georgia"
+      },
+      "id": "D9wgN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.219233362526581,
+          7.94530467243628
+        ]
+      },
+      "properties": {
+        "country": "Ghana",
+        "aum_total": 1.236,
+        "aum_total_formated": "$1.236 billones de dólares",
+        "funds_1": "Ghana Petroleum Funds ($1.236 bn)",
+        "name": "Ghana"
+      },
+      "id": "u0V6B"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.07567788066985,
+          74.16847218965994
+        ]
+      },
+      "properties": {
+        "country": "Greenland",
+        "aum_total": 5.5,
+        "aum_total_formated": "$5.5 billones de dólares",
+        "funds_1": "Growthfund ($5.5 bn)",
+        "name": "Groenlandia"
+      },
+      "id": "CocJa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.425456672353823,
+          1.5954643936590733
+        ]
+      },
+      "properties": {
+        "country": "Equatorial Guinea",
+        "aum_total": 0.165,
+        "aum_total_formated": "$0.165 billones de dólares",
+        "funds_1": "Fund for Future Generations ($0.165 bn)",
+        "name": "Guinea Ecuatorial"
+      },
+      "id": "SI4ip"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.91352612754667,
+          4.68211981385056
+        ]
+      },
+      "properties": {
+        "country": "Guyana",
+        "aum_total": 2.1,
+        "aum_total_formated": "$2.1 billones de dólares",
+        "funds_1": "Natural Resource Fund ($2.1 bn)",
+        "name": "Guyana"
+      },
+      "id": "TZriz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.17300408530181,
+          23.586300567746722
+        ]
+      },
+      "properties": {
+        "country": "India",
+        "aum_total": 4.9,
+        "aum_total_formated": "$4.9 billones de dólares",
+        "funds_1": "National Investment and Infrastructure Fund ($4.9 bn)",
+        "name": "India"
+      },
+      "id": "IRUkA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.96538246847302,
+          0.15591979959037652
+        ]
+      },
+      "properties": {
+        "country": "Indonesia",
+        "aum_total": 9.65,
+        "aum_total_formated": "$9.65 billones de dólares",
+        "funds_1": "Indonesia Investment Authority ($9.65 bn)",
+        "name": "Indonesia"
+      },
+      "id": "mVh0I"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.237077001065444,
+          32.906023742890056
+        ]
+      },
+      "properties": {
+        "country": "Iran",
+        "aum_total": 162,
+        "aum_total_formated": "$162.0 billones de dólares",
+        "funds_1": "National Development Fund ($162.0 bn)",
+        "name": "Irán"
+      },
+      "id": "FKVqQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.241128545554096,
+          53.30489539816495
+        ]
+      },
+      "properties": {
+        "country": "Ireland",
+        "aum_total": 26.81,
+        "aum_total_formated": "$26.81 billones de dólares",
+        "funds_2": "Future Ireland Fund ($8.7 bn)",
+        "funds_1": "Ireland Strategic Investment Fund ($18.11 bn)",
+        "name": "Irlanda"
+      },
+      "id": "XOn5f"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.027923472437024,
+          31.513542220043195
+        ]
+      },
+      "properties": {
+        "country": "Israel",
+        "aum_total": 1.48,
+        "aum_total_formated": "$1.48 billones de dólares",
+        "funds_1": "Fund for Israel Citizens ($1.48 bn)",
+        "name": "Israel"
+      },
+      "id": "9IYM7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.763657166123137,
+          42.98201127614267
+        ]
+      },
+      "properties": {
+        "country": "Italy",
+        "aum_total": 10.7,
+        "aum_total_formated": "$10.7 billones de dólares",
+        "funds_1": "CDP Equity ($10.7 bn)",
+        "name": "Italia"
+      },
+      "id": "NP1Ql"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.3759193479301,
+          47.641465195176835
+        ]
+      },
+      "properties": {
+        "country": "Kazakhstan",
+        "aum_total": 230,
+        "aum_total_formated": "$230.0 billones de dólares",
+        "funds_1": "JSC Samruk-Kazyna (101.3)",
+        "funds_2": "National Oil Fund of Republic of Kazakhstan ($65.7 bn)",
+        "funds_3": "JSC National Investment Corporation of the National Bank of Kazakhstan ($63.0 bn)",
+        "name": "Kazajistán"
+      },
+      "id": "IJK1J"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.39024189323504,
+          1.8676673749241066
+        ]
+      },
+      "properties": {
+        "country": "Kiribati",
+        "aum_total": 1.523,
+        "aum_total_formated": "$1.523 billones de dólares",
+        "funds_1": "Revenue Equalization Reserve Fund ($1.523 bn)",
+        "name": "Kiribati"
+      },
+      "id": "I2dvS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.56311109320184,
+          29.281360965443092
+        ]
+      },
+      "properties": {
+        "country": "Kuwait",
+        "aum_total": 972.69,
+        "aum_total_formated": "$972,69 billones de dólares",
+        "funds_1": "Kuwait Investment Authority ($969.0 bn)",
+        "funds_2": "Gulf Investment Corporation ($3.69 bn)",
+        "name": "Kuwait"
+      },
+      "id": "39VKP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.91133392454237,
+          27.202915771690794
+        ]
+      },
+      "properties": {
+        "country": "Libya",
+        "aum_total": 68,
+        "aum_total_formated": "$68.0 billones de dólares",
+        "funds_1": "Libyan Investment Authority ($68.0 bn)",
+        "name": "Libia"
+      },
+      "id": "RRsRx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.63330303992869,
+          3.6716608556387857
+        ]
+      },
+      "properties": {
+        "country": "Malaysia",
+        "aum_total": 30.2,
+        "aum_total_formated": "$30.2 billones de dólares",
+        "funds_1": "Khazanah Nasional ($30.2 bn)",
+        "name": "Malasia"
+      },
+      "id": "lXRkJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.441922442508494,
+          35.890522650899314
+        ]
+      },
+      "properties": {
+        "country": "Malta",
+        "aum_total": 2.3,
+        "aum_total_formated": "$2.3 billones de dólares",
+        "funds_1": "Malta Government Investments ($2.3 bn)",
+        "name": "Malta"
+      },
+      "id": "y583g"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.817212587250811,
+          28.687598134979325
+        ]
+      },
+      "properties": {
+        "country": "Morocco",
+        "aum_total": 1.84,
+        "aum_total_formated": "$21.84 billones de dólares",
+        "funds_1": "Ithmar Capital ($1.84 bn)",
+        "name": "Marruecos"
+      },
+      "id": "ygcjj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.56415671066546,
+          -20.28142317475198
+        ]
+      },
+      "properties": {
+        "country": "Mauritius",
+        "aum_total": 1.18,
+        "aum_total_formated": "$1.18 billones de dólares",
+        "funds_1": "Mauritius Investment Corporation ($1.18 bn)",
+        "name": "Mauricio"
+      },
+      "id": "RcnjK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.495079045035716,
+          20.466731212820022
+        ]
+      },
+      "properties": {
+        "country": "Mauritania",
+        "aum_total": 0.159,
+        "aum_total_formated": "$0.159 billones de dólares",
+        "funds_1": "National Fund for Hydrocarbon Reserves ($0.159 bn)",
+        "name": "Mauritania"
+      },
+      "id": "0g3mo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.55399731630118,
+          23.87436068093592
+        ]
+      },
+      "properties": {
+        "country": "Mexico",
+        "aum_total": 1.13,
+        "aum_total_formated": "$1.13 billones de dólares",
+        "funds_1": "Fondo de Estabilización de los Ingresos Petroleros ($1.13 bn)",
+        "name": "México"
+      },
+      "id": "3FZwE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3987360327455,
+          47.08644454604851
+        ]
+      },
+      "properties": {
+        "country": "Mongolia",
+        "aum_total": 0.22,
+        "aum_total_formated": "$0.22 billones de dólares",
+        "funds_1": "Future Heritage Fund ($0.22 bn)",
+        "name": "Mongolia"
+      },
+      "id": "o3fN0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.16451345845268,
+          -21.90858163281473
+        ]
+      },
+      "properties": {
+        "country": "Namibia",
+        "aum_total": 0.024,
+        "aum_total_formated": "$0.024 billones de dólares",
+        "funds_1": "Welwitschia Fund ($0.024 bn)",
+        "name": "Namibia"
+      },
+      "id": "JPjIK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.92937633139178,
+          -0.5221021440668993
+        ]
+      },
+      "properties": {
+        "country": "Nauru",
+        "aum_total": 0.297,
+        "aum_total_formated": "$0.297 billones de dólares",
+        "funds_1": "Intergenerational Trust Fund for the People of the Republic of Nauru ($0.297 bn)",
+        "name": "Nauru"
+      },
+      "id": "kIB4r"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.147714845256194,
+          9.61029352034213
+        ]
+      },
+      "properties": {
+        "country": "Nigeria",
+        "aum_total": 2.1,
+        "aum_total_formated": "$2.1 billones de dólares",
+        "funds_1": "Nigeria Sovereign Investment Authority ($2.1 bn)",
+        "name": "Nigeria"
+      },
+      "id": "abDWB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.670259272390894,
+          64.97775882947745
+        ]
+      },
+      "properties": {
+        "country": "Norway",
+        "aum_total": 1779,
+        "aum_total_formated": "$1,779.0 billones de dólares",
+        "funds_1": "Government Pension Fund Global ($1,779.0 bn)",
+        "name": "Noruega"
+      },
+      "id": "RPXFa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.69035541428696,
+          -43.82765432544426
+        ]
+      },
+      "properties": {
+        "country": "New Zealand",
+        "aum_total": 48.3,
+        "aum_total_formated": "$48.3 billones de dólares",
+        "funds_1": "New Zealand Superannuation Fund ($48.3 bn)",
+        "name": "Nueva Zelanda"
+      },
+      "id": "eAz5D"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          55.665307,
+          17.737197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "country": "Oman",
+        "aum_total": 50,
+        "aum_total_formated": "$50.0 billones de dólares",
+        "funds_1": "Oman Investment Authority ($50.0 bn)",
+        "name": "Oman"
+      },
+      "id": "JLr4o"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24251184154588,
+          31.930818736453883
+        ]
+      },
+      "properties": {
+        "country": "Palestinian Territory",
+        "aum_total": 0.957,
+        "aum_total_formated": "$0.957 billones de dólares",
+        "funds_1": "Palestine Investment Fund ($0.957 bn)",
+        "name": "Palestina"
+      },
+      "id": "AYABz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.14428761482796,
+          8.439536749576892
+        ]
+      },
+      "properties": {
+        "country": "Panama",
+        "aum_total": 2.69,
+        "aum_total_formated": "$2.69 billones de dólares",
+        "funds_1": "Fondo de Ahorro de Panamá ($2.69 bn)",
+        "name": "Panamá"
+      },
+      "id": "0hobO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8348942994695,
+          -7.156912819152135
+        ]
+      },
+      "properties": {
+        "country": "Papua New Guinea",
+        "aum_total": 0.02,
+        "aum_total_formated": "$0.02 billones de dólares",
+        "funds_1": "Papua New Guinea SWF ($0.02 bn)",
+        "name": "Papúa Nueva Guinea"
+      },
+      "id": "0cSqO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11416196781884,
+          -8.522717984240291
+        ]
+      },
+      "properties": {
+        "country": "Peru",
+        "aum_total": 1.83,
+        "aum_total_formated": "$1.83 billones de dólares",
+        "funds_1": "Fondo de Estabilización Fiscal ($1.83 bn)",
+        "name": "Perú"
+      },
+      "id": "XLkvs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.852943909329258,
+          53.97844735080214
+        ]
+      },
+      "properties": {
+        "country": "United Kingdom",
+        "aum_total": 35,
+        "aum_total_formated": "$35.0 billones de dólares",
+        "funds_1": "National Wealth Fund ($35.0 bn)",
+        "name": "Reino Unido"
+      },
+      "id": "UazuZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.919439681764082,
+          -2.014687460047154
+        ]
+      },
+      "properties": {
+        "country": "Rwanda",
+        "aum_total": 0.25,
+        "aum_total_formated": "$0.25 billones de dólares",
+        "funds_1": "Agaciro Development Fund ($0.25 bn)",
+        "name": "Ruanda"
+      },
+      "id": "UW81R"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6704990698032,
+          59.039434214106194
+        ]
+      },
+      "properties": {
+        "country": "Russian Federation",
+        "aum_total": 163.7,
+        "aum_total_formated": "$163.7 billones de dólares",
+        "funds_1": "National Wealth Fund ($135.7 bn)",
+        "funds_2": "Russian Direct Investment Fund ($28.0 bn)",
+        "name": "Rusia"
+      },
+      "id": "JJ746"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.610875368352305,
+          14.228861491763402
+        ]
+      },
+      "properties": {
+        "country": "Senegal",
+        "aum_total": 0.051,
+        "aum_total_formated": "$0.051 billones de dólares",
+        "funds_1": "FONSIS ($0.051 bn)",
+        "name": "Senegal"
+      },
+      "id": "TVIXW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.81025757634053,
+          1.3528251890006349
+        ]
+      },
+      "properties": {
+        "country": "Singapore",
+        "aum_total": 1148,
+        "aum_total_formated": "$1,148.69 billones de dólares",
+        "funds_1": "GIC ($847.0 bn)",
+        "funds_2": "Temasek ($301.0 bn)",
+        "name": "Singapur"
+      },
+      "id": "FahQD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3851856901788,
+          7.657782041763295
+        ]
+      },
+      "properties": {
+        "country": "South Sudan",
+        "aum_total": 0,
+        "aum_total_formated": "Not available",
+        "funds_1": "Oil Revenue Stabilization Fund",
+        "name": "Sudán del Sur"
+      },
+      "id": "QXmrN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.855514311561286,
+          4.098723595920171
+        ]
+      },
+      "properties": {
+        "country": "Suriname",
+        "aum_total": 0,
+        "aum_total_formated": "Not available",
+        "funds_1": "Savings and Stabilization Fund",
+        "name": "Suriname"
+      },
+      "id": "i1tvx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.95024049562659,
+          -8.809894630601962
+        ]
+      },
+      "properties": {
+        "country": "Timor-Leste",
+        "aum_total": 18.47,
+        "aum_total_formated": "$18.47 billones de dólares",
+        "funds_1": "Timor-Leste Petroleum Fund ($18.47 bn)",
+        "name": "Timor-Leste"
+      },
+      "id": "isGJj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.37236579976247,
+          10.415515638298093
+        ]
+      },
+      "properties": {
+        "country": "Trinidad and Tobago",
+        "aum_total": 5.39,
+        "aum_total_formated": "$5.39 billones de dólares",
+        "funds_1": "Heritage and Stabilization Fund ($5.39 bn)",
+        "name": "Trinidad y Tobago"
+      },
+      "id": "mhFH3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.65587551697984,
+          34.08636179565723
+        ]
+      },
+      "properties": {
+        "country": "Tunisia",
+        "aum_total": 3.409,
+        "aum_total_formated": "$3.409 billones de dólares",
+        "funds_1": "Caisse des Depots et des Consignations (CDC) ($3.409 bn)",
+        "name": "Túnez"
+      },
+      "id": "gwofQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.74058946811508,
+          21.799865427483745
+        ]
+      },
+      "properties": {
+        "country": "Turks and Caicos Islands",
+        "aum_total": 0.03,
+        "aum_total_formated": "$0.03 billones de dólares",
+        "funds_1": "National Wealth Fund ($0.03 bn)",
+        "name": "Turcos y Caicos"
+      },
+      "id": "ZEPdM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4577357627054,
+          39.06069118001429
+        ]
+      },
+      "properties": {
+        "country": "Turkmenistan",
+        "aum_total": "Not available",
+        "funds_1": "Turkmenistan Stabilization Fund",
+        "name": "Turkmenistán",
+        "aum_total_formated": "Not available"
+      },
+      "id": "6p0nC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.56886764076691,
+          38.93207363123396
+        ]
+      },
+      "properties": {
+        "country": "Turkey",
+        "aum_total": 26.6,
+        "aum_total_formated": "$26.6 billones de dólares",
+        "funds_1": "Türkiye Wealth Fund ($26.6 bn)",
+        "name": "Turquía"
+      },
+      "id": "csMYP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.34371768463123,
+          1.2821729218416205
+        ]
+      },
+      "properties": {
+        "country": "Uganda",
+        "aum_total": 0.067,
+        "aum_total_formated": "$0.067 billones de dólares",
+        "funds_1": "Petroleum Revenue Investment Reserve ($0.067 bn)",
+        "name": "Uganda"
+      },
+      "id": "qA2Kh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.8548297593985,
+          41.4879065244633
+        ]
+      },
+      "properties": {
+        "country": "Uzbekistan",
+        "aum_total": 23,
+        "aum_total_formated": "$23.0 billones de dólares",
+        "funds_1": "Uzbekistan Fund for Reconstruction and Development ($23.0 bn)",
+        "name": "Uzbekistán"
+      },
+      "id": "kL9RV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.36492135985132,
+          7.148324760507107
+        ]
+      },
+      "properties": {
+        "country": "Venezuela",
+        "aum_total": 0.03,
+        "aum_total_formated": "$0.03 billones de dólares",
+        "funds_1": "Fondo para la Estabilización Macroeconómica ($0.03 bn)",
+        "name": "Venezuela"
+      },
+      "id": "sLvbP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.91338832758704,
+          16.517347170839393
+        ]
+      },
+      "properties": {
+        "country": "Vietnam",
+        "aum_total": 1.96,
+        "aum_total_formated": "$1.96 billones de dólares",
+        "funds_1": "State Capital Investment Corporation ($1.96 bn)",
+        "name": "Vietnam"
+      },
+      "id": "xQi4K"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.717829640720844,
+          -18.92700121981475
+        ]
+      },
+      "properties": {
+        "country": "Zimbabwe",
+        "aum_total": 16,
+        "aum_total_formated": "$16.0 billones de dólares",
+        "funds_1": "Zimbabwe Sovereign Wealth Fund ($16.0 bn)",
+        "name": "Zimbabwe"
+      },
+      "id": "DeWt3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75252746489084,
+          -28.55361930679731
+        ]
+      },
+      "properties": {
+        "Ranking position": "Not Available",
+        "Sovereign Wealth Fund": "South Africa",
+        "Assets Under Management": "Not Available",
+        "Establishment year": "Not Available",
+        "Type": "Considering",
+        "IFSW Member": "Not Available",
+        "Country": "South Africa",
+        "Status": "Pending"
+      },
+      "id": "eT2k4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.89651946324749,
+          33.91160170722086
+        ]
+      },
+      "properties": {
+        "Ranking position": "Not Available",
+        "Sovereign Wealth Fund": "Lebanon",
+        "Assets Under Management": "Not Available",
+        "Establishment year": "Not Available",
+        "Type": "Considering",
+        "IFSW Member": "Not Available",
+        "Country": "Lebanon",
+        "Status": "Pending"
+      },
+      "id": "uoB2W"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.95309411262371,
+          0.6899182318376179
+        ]
+      },
+      "properties": {
+        "Ranking position": "Not Available",
+        "Sovereign Wealth Fund": "Kenya",
+        "Assets Under Management": "Not Available",
+        "Establishment year": "Not Available",
+        "Type": "Considering",
+        "IFSW Member": "Not Available",
+        "Country": "Kenya",
+        "Status": "Pending"
+      },
+      "id": "aJsHS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.208577031290176,
+          -17.525230309488748
+        ]
+      },
+      "properties": {
+        "Ranking position": "Not Available",
+        "Sovereign Wealth Fund": "Mozambique",
+        "Assets Under Management": "Not Available",
+        "Establishment year": "Not Available",
+        "Type": "Considering",
+        "IFSW Member": "Not Available",
+        "Country": "Mozambique",
+        "Status": "Pending"
+      },
+      "id": "OmDD3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.07275370060313,
+          24.72162633646784
+        ]
+      },
+      "properties": {
+        "Ranking position": "Not Available",
+        "Sovereign Wealth Fund": "Bahamas",
+        "Assets Under Management": "Not Available",
+        "Establishment year": "Not Available",
+        "Type": "Considering",
+        "IFSW Member": "Not Available",
+        "Country": "Bahamas",
+        "Status": "Pending"
+      },
+      "id": "CtaES"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.094158201563292,
+          45.82454894397586
+        ]
+      },
+      "properties": {
+        "Ranking position": "Not Available",
+        "Sovereign Wealth Fund": "Romania",
+        "Assets Under Management": "Not Available",
+        "Establishment year": "Not Available",
+        "Type": "Considering",
+        "IFSW Member": "Not Available",
+        "Country": "Romania",
+        "Status": "Pending"
+      },
+      "id": "Rn8aY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.46934234351835,
+          36.76738832597829
+        ]
+      },
+      "properties": {
+        "Ranking position": "Not Available",
+        "Sovereign Wealth Fund": "Japan",
+        "Assets Under Management": "Not Available",
+        "Establishment year": "Not Available",
+        "Type": "Considering",
+        "IFSW Member": "Not Available",
+        "Country": "Japan",
+        "Status": "Pending"
+      },
+      "id": "TxVgz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.75521363430896,
+          -13.162832953186246
+        ]
+      },
+      "properties": {
+        "Ranking position": "Not Available",
+        "Sovereign Wealth Fund": "Zambia",
+        "Assets Under Management": "Not Available",
+        "Establishment year": "Not Available",
+        "Type": "Considering",
+        "IFSW Member": "Not Available",
+        "Country": "Zambia",
+        "Status": "Pending"
+      },
+      "id": "HOyJy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81832206060381,
+          -6.355794440041147
+        ]
+      },
+      "properties": {
+        "Ranking position": "Not Available",
+        "Sovereign Wealth Fund": "Tanzania",
+        "Assets Under Management": "Not Available",
+        "Establishment year": "Not Available",
+        "Type": "Considering",
+        "IFSW Member": "Not Available",
+        "Country": "Tanzania",
+        "Status": "Pending"
+      },
+      "id": "6HyHo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.258988935497618,
+          6.52012979398834
+        ]
+      },
+      "properties": {
+        "Ranking position": "Not Available",
+        "Sovereign Wealth Fund": "Liberia",
+        "Assets Under Management": "Not Available",
+        "Establishment year": "Not Available",
+        "Type": "Considering",
+        "IFSW Member": "Not Available",
+        "Country": "Liberia",
+        "Status": "Pending"
+      },
+      "id": "9vPwQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.41680517868062,
+          57.550480044655636
+        ]
+      },
+      "properties": {
+        "Ranking position": "Not Available",
+        "Sovereign Wealth Fund": "Saskatchewan",
+        "Assets Under Management": "Not Available",
+        "Establishment year": "Not Available",
+        "Type": "Considering",
+        "IFSW Member": "Not Available",
+        "Country": "Canada",
+        "Status": "Pending"
+      },
+      "id": "PvSkk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.43212562608613,
+          23.673728665121
+        ]
+      },
+      "properties": {
+        "Ranking position": "Not Available",
+        "Sovereign Wealth Fund": "Bangladesh",
+        "Assets Under Management": "Not Available",
+        "Establishment year": "Not Available",
+        "Type": "Considering",
+        "IFSW Member": "Not Available",
+        "Country": "Bangladesh",
+        "Status": "Pending"
+      },
+      "id": "d8Fuq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.50767040438612,
+          -21.33003372660827
+        ]
+      },
+      "properties": {
+        "Ranking position": "Not Available",
+        "Sovereign Wealth Fund": "New Caledonia",
+        "Assets Under Management": "Not Available",
+        "Establishment year": "Not Available",
+        "Type": "Considering",
+        "IFSW Member": "Not Available",
+        "Country": "New Caledonia",
+        "Status": "Pending"
+      },
+      "id": "YGSuT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5439,
+          22.1987
+        ]
+      },
+      "properties": {
+        "Ranking position": "Not Available",
+        "Sovereign Wealth Fund": "Investment and Development Fund",
+        "Assets Under Management": "Not Available",
+        "Establishment year": "Not Available",
+        "Type": "Considering",
+        "IFSW Member": "Not Available",
+        "Country": "Macau SAR",
+        "Status": "Pending"
+      },
+      "id": "GvYMv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9605,
+          23.6978
+        ]
+      },
+      "properties": {
+        "Ranking position": "Not Available",
+        "Sovereign Wealth Fund": "Taiwan",
+        "Assets Under Management": "Not Available",
+        "Establishment year": "Not Available",
+        "Type": "Considering",
+        "IFSW Member": "Not Available",
+        "Country": "Taiwan",
+        "Status": "Pending"
+      },
+      "id": "CPh26"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          104.765625,
+          46.073231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": "Not Available",
+        "Sovereign Wealth Fund": "Mongolia",
+        "Assets Under Management": "Not Available",
+        "Establishment year": "Not Available",
+        "Type": "Considering",
+        "IFSW Member": "Not Available",
+        "Country": "Mongolia",
+        "Status": "Pending"
+      },
+      "id": "e7zL0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.95728884547246,
+          31.387064884449156
+        ]
+      },
+      "properties": {
+        "Ranking position": "Not Available",
+        "Sovereign Wealth Fund": "Jordan",
+        "Assets Under Management": "Not Available",
+        "Establishment year": "Not Available",
+        "Type": "Considering",
+        "IFSW Member": "Not Available",
+        "Country": "Jordan",
+        "Status": "Pending"
+      },
+      "id": "PbKu9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.902,
+          42.6026
+        ]
+      },
+      "properties": {
+        "Ranking position": "Not Available",
+        "Sovereign Wealth Fund": "Republic of Kosovo",
+        "Assets Under Management": "Not Available",
+        "Establishment year": "Not Available",
+        "Type": "Considering",
+        "IFSW Member": "Not Available",
+        "Country": "Kosovo",
+        "Status": "Pending"
+      },
+      "id": "8wgfH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33161660829639,
+          38.8208089190304
+        ]
+      },
+      "properties": {
+        "Ranking position": "Not Available",
+        "Sovereign Wealth Fund": "United States",
+        "Assets Under Management": "Not Available",
+        "Establishment year": "Not Available",
+        "Type": "Considering",
+        "IFSW Member": "Not Available",
+        "Country": "United States",
+        "Status": "Pending"
+      },
+      "id": "zC6TB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.27920525789581,
+          24.18250292309135
+        ]
+      },
+      "properties": {
+        "Ranking position": 15,
+        "Sovereign Wealth Fund": "ADQ",
+        "Assets Under Management": 249,
+        "Establishment year": 2018,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "United Arab Emirates",
+        "Status": "Established",
+        "Assets Under Management_formated": "$249.0 bn"
+      },
+      "id": "JvZvU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.237077001065444,
+          32.906023742890056
+        ]
+      },
+      "properties": {
+        "Ranking position": 18,
+        "Sovereign Wealth Fund": "National Development Fund",
+        "Assets Under Management": 162,
+        "Establishment year": 2011,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "Iran",
+        "Status": "Established",
+        "Assets Under Management_formated": "$162.0 bn"
+      },
+      "id": "M9KKz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          69.082031,
+          47.635784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 27,
+        "Sovereign Wealth Fund": "JSC National Investment Corporation of the National Bank of Kazakhstan",
+        "Assets Under Management": 63,
+        "Establishment year": 2012,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Kazakhstan",
+        "Status": "Established",
+        "Assets Under Management_formated": "$63.0 bn"
+      },
+      "id": "zrZcm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          55.722656,
+          17.811456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 32,
+        "Sovereign Wealth Fund": "Oman Investment Authority",
+        "Assets Under Management": 50,
+        "Establishment year": 2020,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Oman",
+        "Status": "Established",
+        "Assets Under Management_formated": "$50.0 bn"
+      },
+      "id": "cgNWz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.914902886544276,
+          8.729389557048396
+        ]
+      },
+      "properties": {
+        "Ranking position": 34,
+        "Sovereign Wealth Fund": "Ethiopian Investment Holdings (EIH)",
+        "Assets Under Management": 46,
+        "Establishment year": 2021,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Ethiopia",
+        "Status": "Established",
+        "Assets Under Management_formated": "$46.0 bn"
+      },
+      "id": "UNUen"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1940236627886227,
+          46.6423682169416
+        ]
+      },
+      "properties": {
+        "Ranking position": 35,
+        "Sovereign Wealth Fund": "BpiFrance",
+        "Assets Under Management": 36,
+        "Establishment year": 2014,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "France",
+        "Status": "Established",
+        "Assets Under Management_formated": "$36.0 bn"
+      },
+      "id": "VABpz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.852943909329258,
+          53.97844735080214
+        ]
+      },
+      "properties": {
+        "Ranking position": 36,
+        "Sovereign Wealth Fund": "National Wealth Fund",
+        "Assets Under Management": 35,
+        "Establishment year": 2024,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "United Kingdom",
+        "Status": "Established",
+        "Assets Under Management_formated": "$35.0 bn"
+      },
+      "id": "WmuFO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          97.558594,
+          58.995311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 38,
+        "Sovereign Wealth Fund": "Russian Direct Investment Fund",
+        "Assets Under Management": 28,
+        "Establishment year": 2011,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "Russian Federation",
+        "Status": "Established",
+        "Assets Under Management_formated": "$28.0 bn"
+      },
+      "id": "LSC4c"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.56886764076691,
+          38.93207363123396
+        ]
+      },
+      "properties": {
+        "Ranking position": 39,
+        "Sovereign Wealth Fund": "Türkiye Wealth Fund",
+        "Assets Under Management": "26.6",
+        "Establishment year": 2016,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Turkey",
+        "Status": "Established",
+        "Assets Under Management_formated": "$26.6 bn"
+      },
+      "id": "6RMdl"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.717829640720844,
+          -18.92700121981475
+        ]
+      },
+      "properties": {
+        "Ranking position": 45,
+        "Sovereign Wealth Fund": "Zimbabwe Sovereign Wealth Fund",
+        "Assets Under Management": 16,
+        "Establishment year": 2014,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "Zimbabwe",
+        "Status": "Established",
+        "Assets Under Management_formated": "$16.0 bn"
+      },
+      "id": "bgiD4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33161660829639,
+          38.8208089190304
+        ]
+      },
+      "properties": {
+        "Ranking position": 48,
+        "Sovereign Wealth Fund": "North Dakota Legacy Fund",
+        "Assets Under Management": "10.87",
+        "Establishment year": 2011,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "United States",
+        "Status": "Established",
+        "Assets Under Management_formated": "$10.87 bn"
+      },
+      "id": "oroLc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.763657166123137,
+          42.98201127614267
+        ]
+      },
+      "properties": {
+        "Ranking position": 49,
+        "Sovereign Wealth Fund": "CDP Equity",
+        "Assets Under Management": "10.7",
+        "Establishment year": 2011,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Italy",
+        "Status": "Established",
+        "Assets Under Management_formated": "$10.7 bn"
+      },
+      "id": "w4H5l"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.96538246847302,
+          0.15591979959037652
+        ]
+      },
+      "properties": {
+        "Ranking position": 51,
+        "Sovereign Wealth Fund": "Indonesia Investment Authority",
+        "Assets Under Management": "9.65",
+        "Establishment year": 2020,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Indonesia",
+        "Status": "Established",
+        "Assets Under Management_formated": "$9.65 bn"
+      },
+      "id": "60YD5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.82208941416745,
+          15.586542251094242
+        ]
+      },
+      "properties": {
+        "Ranking position": 53,
+        "Sovereign Wealth Fund": "Maharlika Investment Fund",
+        "Assets Under Management": "8.9",
+        "Establishment year": 2023,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Philippines",
+        "Status": "Established",
+        "Assets Under Management_formated": "$8.9 bn"
+      },
+      "id": "pRZ0j"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.76863431739216,
+          -37.82938283049967
+        ]
+      },
+      "properties": {
+        "Ranking position": 54,
+        "Sovereign Wealth Fund": "Hong Kong Investment Corporation (HKIC)",
+        "Assets Under Management": "7.95",
+        "Establishment year": 2022,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "China",
+        "Status": "Established",
+        "Assets Under Management_formated": "$7.95 bn"
+      },
+      "id": "yRz0j"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -5.800781,
+          53.330873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 55,
+        "Sovereign Wealth Fund": "Future Ireland Fund",
+        "Assets Under Management": "8.7",
+        "Establishment year": 2024,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "Ireland",
+        "Status": "Established",
+        "Assets Under Management_formated": "$8.7 bn"
+      },
+      "id": "guwrX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.07567788066985,
+          74.16847218965994
+        ]
+      },
+      "properties": {
+        "Ranking position": 56,
+        "Sovereign Wealth Fund": "Growthfund",
+        "Assets Under Management": "5.50",
+        "Establishment year": 2016,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Greenland",
+        "Status": "Established",
+        "Assets Under Management_formated": "$5.5 bn"
+      },
+      "id": "mIEQy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6516251409956983,
+          40.365008336683836
+        ]
+      },
+      "properties": {
+        "Ranking position": 58,
+        "Sovereign Wealth Fund": "COFIDES",
+        "Assets Under Management": "4.97",
+        "Establishment year": 2018,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Spain",
+        "Status": "Established",
+        "Assets Under Management_formated": "$4.97 bn"
+      },
+      "id": "Vdrs1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.17300408530181,
+          23.586300567746722
+        ]
+      },
+      "properties": {
+        "Ranking position": 59,
+        "Sovereign Wealth Fund": "National Investment and Infrastructure Fund",
+        "Assets Under Management": 4.9,
+        "Establishment year": 2015,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "India",
+        "Status": "Established",
+        "Assets Under Management_formated": "$4.9 bn"
+      },
+      "id": "9XQFA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6445066243485,
+          4.187753877352739
+        ]
+      },
+      "properties": {
+        "Ranking position": 62,
+        "Sovereign Wealth Fund": "Fondo de Ahorro y Estabilización",
+        "Assets Under Management": 4.3,
+        "Establishment year": 2011,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "Colombia",
+        "Status": "Established",
+        "Assets Under Management_formated": "$4.3 bn"
+      },
+      "id": "bCstz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.65587551697984,
+          34.08636179565723
+        ]
+      },
+      "properties": {
+        "Ranking position": 65,
+        "Sovereign Wealth Fund": "Caisse des Depots et des Consignations (CDC)",
+        "Assets Under Management": 3.409,
+        "Establishment year": 2011,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "Tunisia",
+        "Status": "Established",
+        "Assets Under Management_formated": "$3.409 bn"
+      },
+      "id": "g4qy0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.14428761482796,
+          8.439536749576892
+        ]
+      },
+      "properties": {
+        "Ranking position": 67,
+        "Sovereign Wealth Fund": "Fondo de Ahorro de Panamá",
+        "Assets Under Management": 2.69,
+        "Establishment year": 2011,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Panama",
+        "Status": "Established",
+        "Assets Under Management_formated": "$2.69 bn"
+      },
+      "id": "F8Y5R"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.441922442508494,
+          35.890522650899314
+        ]
+      },
+      "properties": {
+        "Ranking position": 68,
+        "Sovereign Wealth Fund": "Malta Government Investments",
+        "Assets Under Management": 2.3,
+        "Establishment year": 2015,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "Malta",
+        "Status": "Established",
+        "Assets Under Management_formated": "$2.3 bn"
+      },
+      "id": "xBjzI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.651768783079,
+          -12.167424062667942
+        ]
+      },
+      "properties": {
+        "Ranking position": 69,
+        "Sovereign Wealth Fund": "Fundo Soberano de Angola",
+        "Assets Under Management": 2.17,
+        "Establishment year": 2012,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Angola",
+        "Status": "Established",
+        "Assets Under Management_formated": "$2.17 bn"
+      },
+      "id": "e7hZ9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.91352612754667,
+          4.68211981385056
+        ]
+      },
+      "properties": {
+        "Ranking position": 70,
+        "Sovereign Wealth Fund": "Natural Resource Fund",
+        "Assets Under Management": 2.1,
+        "Establishment year": 2019,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Guyana",
+        "Status": "Established",
+        "Assets Under Management_formated": "$2.1 bn"
+      },
+      "id": "HalLf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.147714845256194,
+          9.61029352034213
+        ]
+      },
+      "properties": {
+        "Ranking position": 71,
+        "Sovereign Wealth Fund": "Nigeria Sovereign Investment Authority",
+        "Assets Under Management": 2.1,
+        "Establishment year": 2011,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Nigeria",
+        "Status": "Established",
+        "Assets Under Management_formated": "$2.1 bn"
+      },
+      "id": "Zly3Q"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.240135435012338,
+          26.60517034450628
+        ]
+      },
+      "properties": {
+        "Ranking position": 72,
+        "Sovereign Wealth Fund": "The Sovereign Fund of Egypt",
+        "Assets Under Management": 2,
+        "Establishment year": 2018,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Egypt",
+        "Status": "Established",
+        "Assets Under Management_formated": "$2.0 bn"
+      },
+      "id": "8SZLt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.817212587250811,
+          28.687598134979325
+        ]
+      },
+      "properties": {
+        "Ranking position": 75,
+        "Sovereign Wealth Fund": "Ithmar Capital",
+        "Assets Under Management": 1.84,
+        "Establishment year": 2011,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Morocco",
+        "Status": "Established",
+        "Assets Under Management_formated": "$1.84 bn"
+      },
+      "id": "MkUUk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.027923472437024,
+          31.513542220043195
+        ]
+      },
+      "properties": {
+        "Ranking position": 79,
+        "Sovereign Wealth Fund": "Fund for Israel Citizens",
+        "Assets Under Management": 1.48,
+        "Establishment year": 2014,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "Israel",
+        "Status": "Established",
+        "Assets Under Management_formated": "$1.48 bn"
+      },
+      "id": "rFlHX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.56415671066546,
+          -20.28142317475198
+        ]
+      },
+      "properties": {
+        "Ranking position": 80,
+        "Sovereign Wealth Fund": "Mauritius Investment Corporation",
+        "Assets Under Management": 1.18,
+        "Establishment year": 2020,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Mauritius",
+        "Status": "Established",
+        "Assets Under Management_formated": "$1.18 bn"
+      },
+      "id": "04oUc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.55399731630118,
+          23.87436068093592
+        ]
+      },
+      "properties": {
+        "Ranking position": 81,
+        "Sovereign Wealth Fund": "Fondo de Estabilización de los Ingresos Petroleros",
+        "Assets Under Management": 1.13,
+        "Establishment year": 2015,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Mexico",
+        "Status": "Established",
+        "Assets Under Management_formated": "$1.13 bn"
+      },
+      "id": "210VV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.219233362526581,
+          7.94530467243628
+        ]
+      },
+      "properties": {
+        "Ranking position": 82,
+        "Sovereign Wealth Fund": "Ghana Petroleum Funds",
+        "Assets Under Management": 1.046,
+        "Establishment year": 2011,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Ghana",
+        "Status": "Established",
+        "Assets Under Management_formated": "$1.046 bn"
+      },
+      "id": "RCG2R"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.375346009199205,
+          35.11700416345239
+        ]
+      },
+      "properties": {
+        "Ranking position": 84,
+        "Sovereign Wealth Fund": "National Investment Fund",
+        "Assets Under Management": 0.75,
+        "Establishment year": 2019,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "Cyprus",
+        "Status": "Established",
+        "Assets Under Management_formated": "$0.75 bn"
+      },
+      "id": "f8C9J"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.41680517868062,
+          57.550480044655636
+        ]
+      },
+      "properties": {
+        "Ranking position": 86,
+        "Sovereign Wealth Fund": "Northwest Territories Heritage Fund",
+        "Assets Under Management": 0.54,
+        "Establishment year": 2012,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "Canada",
+        "Status": "Established",
+        "Assets Under Management_formated": "$0.54 bn"
+      },
+      "id": "QfFkw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.92937633139178,
+          -0.5221021440668993
+        ]
+      },
+      "properties": {
+        "Ranking position": 87,
+        "Sovereign Wealth Fund": "Intergenerational Trust Fund for the People of the Republic of Nauru",
+        "Assets Under Management": 0.297,
+        "Establishment year": 2015,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Nauru",
+        "Status": "Established",
+        "Assets Under Management_formated": "$0.297 bn"
+      },
+      "id": "vpzbK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.919439681764082,
+          -2.014687460047154
+        ]
+      },
+      "properties": {
+        "Ranking position": 88,
+        "Sovereign Wealth Fund": "Agaciro Development Fund",
+        "Assets Under Management": 0.25,
+        "Establishment year": 2012,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Rwanda",
+        "Status": "Established",
+        "Assets Under Management_formated": "$0.25 bn"
+      },
+      "id": "htvhm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          102.304688,
+          46.073231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 89,
+        "Sovereign Wealth Fund": "Future Heritage Fund",
+        "Assets Under Management": 0.22,
+        "Establishment year": 2019,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "Mongolia",
+        "Status": "Established",
+        "Assets Under Management_formated": "$0.22 bn"
+      },
+      "id": "kw3JA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.219233362526581,
+          7.94530467243628
+        ]
+      },
+      "properties": {
+        "Ranking position": 90,
+        "Sovereign Wealth Fund": "Ghana Petroleum Funds",
+        "Assets Under Management": 0.19,
+        "Establishment year": 2011,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Ghana",
+        "Status": "Established",
+        "Assets Under Management_formated": "$0.19 bn"
+      },
+      "id": "mudqz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.613496898789506,
+          11.750235727618804
+        ]
+      },
+      "properties": {
+        "Ranking position": 91,
+        "Sovereign Wealth Fund": "Fonds Souverain de Djibouti",
+        "Assets Under Management": 0.17,
+        "Establishment year": 2020,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Djibouti",
+        "Status": "Established",
+        "Assets Under Management_formated": "$0.17 bn"
+      },
+      "id": "MgqHw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.378866534112234,
+          42.17986277737226
+        ]
+      },
+      "properties": {
+        "Ranking position": 94,
+        "Sovereign Wealth Fund": "JSC Development Fund of Georgia",
+        "Assets Under Management": 0.147,
+        "Establishment year": 2011,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "Georgia",
+        "Status": "Established",
+        "Assets Under Management_formated": "$0.147 bn"
+      },
+      "id": "H6hny"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.34371768463123,
+          1.2821729218416205
+        ]
+      },
+      "properties": {
+        "Ranking position": 95,
+        "Sovereign Wealth Fund": "Petroleum Revenue Investment Reserve",
+        "Assets Under Management": 0.067,
+        "Establishment year": 2015,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "Uganda",
+        "Status": "Established",
+        "Assets Under Management_formated": "$0.067 bn"
+      },
+      "id": "MaUPB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.610875368352305,
+          14.228861491763402
+        ]
+      },
+      "properties": {
+        "Ranking position": 96,
+        "Sovereign Wealth Fund": "FONSIS",
+        "Assets Under Management": 0.051,
+        "Establishment year": 2012,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "Yes",
+        "Country": "Senegal",
+        "Status": "Established",
+        "Assets Under Management_formated": "$0.051 bn"
+      },
+      "id": "KxNDB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.74058946811508,
+          21.799865427483745
+        ]
+      },
+      "properties": {
+        "Ranking position": 98,
+        "Sovereign Wealth Fund": "National Wealth Fund",
+        "Assets Under Management": 0.03,
+        "Establishment year": 2017,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "Turks and Caicos Islands",
+        "Status": "Established",
+        "Assets Under Management_formated": "$0.03 bn"
+      },
+      "id": "XInxp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.16451345845268,
+          -21.90858163281473
+        ]
+      },
+      "properties": {
+        "Ranking position": 99,
+        "Sovereign Wealth Fund": "Welwitschia Fund",
+        "Assets Under Management": 0.024,
+        "Establishment year": 2021,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "Namibia",
+        "Status": "Established",
+        "Assets Under Management_formated": "$0.024 bn"
+      },
+      "id": "mgOot"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8348942994695,
+          -7.156912819152135
+        ]
+      },
+      "properties": {
+        "Ranking position": 101,
+        "Sovereign Wealth Fund": "Papua New Guinea SWF",
+        "Assets Under Management": 0.02,
+        "Establishment year": 2011,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "Papua New Guinea",
+        "Status": "Established",
+        "Assets Under Management_formated": "$0.02 bn"
+      },
+      "id": "NVAjf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.855514311561286,
+          4.098723595920171
+        ]
+      },
+      "properties": {
+        "Ranking position": 102,
+        "Sovereign Wealth Fund": "Savings and Stabilization Fund",
+        "Assets Under Management": "Not Available",
+        "Establishment year": 2017,
+        "Type": "New SFWs (2010-2025)",
+        "IFSW Member": "No",
+        "Country": "Suriname",
+        "Status": "Established"
+      },
+      "id": "dlMcq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.670259272390894,
+          64.97775882947745
+        ]
+      },
+      "properties": {
+        "Ranking position": 1,
+        "Sovereign Wealth Fund": "Government Pension Fund Global",
+        "Assets Under Management": 1.779,
+        "Establishment year": 1990,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Norway",
+        "Status": "Established",
+        "Assets Under Management_formated": "$1.779 bn"
+      },
+      "id": "Q2IQI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          108.984375,
+          38.134557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 2,
+        "Sovereign Wealth Fund": "China Investment Corporation",
+        "Assets Under Management": 1.332,
+        "Establishment year": 2007,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "China",
+        "Status": "Established",
+        "Assets Under Management_formated": "$1.332 bn"
+      },
+      "id": "mLGwL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          104.238281,
+          38.134557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 3,
+        "Sovereign Wealth Fund": "State Administration of Foreign Exchange",
+        "Assets Under Management": 1098,
+        "Establishment year": 1997,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "China",
+        "Status": "Established",
+        "Assets Under Management_formated": "$1098.0 bn"
+      },
+      "id": "RFVpj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          70.488281,
+          24.20689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 4,
+        "Sovereign Wealth Fund": "Abu Dhabi Investment Authority",
+        "Assets Under Management": 993,
+        "Establishment year": 1976,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "United Arab Emirates",
+        "Status": "Established",
+        "Assets Under Management_formated": "$993.0 bn"
+      },
+      "id": "Tw1q5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          45.703125,
+          24.20689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 5,
+        "Sovereign Wealth Fund": "Public Investment Fund",
+        "Assets Under Management": 978,
+        "Establishment year": 1971,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Saudi Arabia",
+        "Status": "Established",
+        "Assets Under Management_formated": "$978.0 bn"
+      },
+      "id": "nn5ON"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          46.757813,
+          29.22889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 6,
+        "Sovereign Wealth Fund": "Kuwait Investment Authority",
+        "Assets Under Management": 969,
+        "Establishment year": 1953,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "Kuwait",
+        "Status": "Established",
+        "Assets Under Management_formated": "$969.0 bn"
+      },
+      "id": "CNbYC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          104.0625,
+          1.362176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 7,
+        "Sovereign Wealth Fund": "GIC",
+        "Assets Under Management": 847,
+        "Establishment year": 1981,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "Singapore",
+        "Status": "Established",
+        "Assets Under Management_formated": "$847.0 bn"
+      },
+      "id": "ZxVO6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          99.316406,
+          38.134557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 8,
+        "Sovereign Wealth Fund": "Hong Kong Monetary Authority",
+        "Assets Under Management": 513,
+        "Establishment year": 1993,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "China",
+        "Status": "Established",
+        "Assets Under Management_formated": "$513.0 bn"
+      },
+      "id": "Api6A"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          51.328125,
+          25.005973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 9,
+        "Sovereign Wealth Fund": "Qatar Investment Authority",
+        "Assets Under Management": 510,
+        "Establishment year": 2005,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "Qatar",
+        "Status": "Established",
+        "Assets Under Management_formated": "$510.0 bn"
+      },
+      "id": "Egetv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          43.242188,
+          24.20689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 10,
+        "Sovereign Wealth Fund": "Saudi Arabian Monetary Authority",
+        "Assets Under Management": 469,
+        "Establishment year": 1952,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Saudi Arabia",
+        "Status": "Established",
+        "Assets Under Management_formated": "$469.0 bn"
+      },
+      "id": "C96Yz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.777344,
+          38.134557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 11,
+        "Sovereign Wealth Fund": "National Social Security Fund",
+        "Assets Under Management": 414,
+        "Establishment year": 2000,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "China",
+        "Status": "Established",
+        "Assets Under Management_formated": "$414.0 bn"
+      },
+      "id": "2wKjN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          67.851563,
+          24.20689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 12,
+        "Sovereign Wealth Fund": "Investment Corporation of Dubai",
+        "Assets Under Management": 360,
+        "Establishment year": 2006,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "United Arab Emirates",
+        "Status": "Established",
+        "Assets Under Management_formated": "$360.0 bn"
+      },
+      "id": "Dl2tu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          65.214844,
+          24.20689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 13,
+        "Sovereign Wealth Fund": "Mubadala Investment Company",
+        "Assets Under Management": 302,
+        "Establishment year": 2002,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "United Arab Emirates",
+        "Status": "Established",
+        "Assets Under Management_formated": "$302.0 bn"
+      },
+      "id": "FXofx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          103.447266,
+          1.362176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 14,
+        "Sovereign Wealth Fund": "Temasek",
+        "Assets Under Management": 301,
+        "Establishment year": 1974,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Singapore",
+        "Status": "Established",
+        "Assets Under Management_formated": "$301.0 bn"
+      },
+      "id": "odzAX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.02277170916162,
+          -25.697337673983082
+        ]
+      },
+      "properties": {
+        "Ranking position": 16,
+        "Sovereign Wealth Fund": "Future Fund",
+        "Assets Under Management": 224.9,
+        "Establishment year": 2004,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "Australia",
+        "Status": "Established",
+        "Assets Under Management_formated": "$224.9 bn"
+      },
+      "id": "Y4Be3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.76224551357649,
+          36.402386712544114
+        ]
+      },
+      "properties": {
+        "Ranking position": 17,
+        "Sovereign Wealth Fund": "Korea Investment Corporation",
+        "Assets Under Management": 189.4,
+        "Establishment year": 2005,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "South Korea",
+        "Status": "Established",
+        "Assets Under Management_formated": "$189.4 bn"
+      },
+      "id": "JjJDp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          99.84375,
+          58.995311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 19,
+        "Sovereign Wealth Fund": "National Wealth Fund",
+        "Assets Under Management": 135.7,
+        "Establishment year": 2008,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Russian Federation",
+        "Status": "Established",
+        "Assets Under Management_formated": "$135.7 bn"
+      },
+      "id": "HFYGz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          66.621094,
+          47.635784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 20,
+        "Sovereign Wealth Fund": "JSC Samruk-Kazyna",
+        "Assets Under Management": 101.3,
+        "Establishment year": 2008,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "Kazakhstan",
+        "Status": "Established",
+        "Assets Under Management_formated": "$101.3 bn"
+      },
+      "id": "PDJKM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          62.402344,
+          24.20689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 21,
+        "Sovereign Wealth Fund": "Emirates Investment Authority",
+        "Assets Under Management": 91,
+        "Establishment year": 2007,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "United Arab Emirates",
+        "Status": "Established",
+        "Assets Under Management_formated": "$91.0 bn"
+      },
+      "id": "MODyh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          59.589844,
+          24.20689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 22,
+        "Sovereign Wealth Fund": "Dubai World",
+        "Assets Under Management": 80,
+        "Establishment year": 2006,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "United Arab Emirates",
+        "Status": "Established",
+        "Assets Under Management_formated": "$80.0 bn"
+      },
+      "id": "xol8M"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33161660829639,
+          38.8208089190304
+        ]
+      },
+      "properties": {
+        "Ranking position": 23,
+        "Sovereign Wealth Fund": "Alaska Permanent Fund",
+        "Assets Under Management": 79.1,
+        "Establishment year": 1976,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "United States",
+        "Status": "Established",
+        "Assets Under Management_formated": "$79.1 bn"
+      },
+      "id": "frTe4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          56.953125,
+          24.20689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 24,
+        "Sovereign Wealth Fund": "Dubai Holding",
+        "Assets Under Management": 72.1,
+        "Establishment year": 1997,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "United Arab Emirates",
+        "Status": "Established",
+        "Assets Under Management_formated": "$72.1 bn"
+      },
+      "id": "QkYrB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.91133392454237,
+          27.202915771690794
+        ]
+      },
+      "properties": {
+        "Ranking position": 25,
+        "Sovereign Wealth Fund": "Libyan Investment Authority",
+        "Assets Under Management": 68,
+        "Establishment year": 2006,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "Libya",
+        "Status": "Established",
+        "Assets Under Management_formated": "$68.0 bn"
+      },
+      "id": "qjMmO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          64.160156,
+          47.635784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 26,
+        "Sovereign Wealth Fund": "National Oil Fund of Republic of Kazakhstan",
+        "Assets Under Management": 65.7,
+        "Establishment year": 2000,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Kazakhstan",
+        "Status": "Established",
+        "Assets Under Management_formated": "$65.7 bn"
+      },
+      "id": "eacTs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.634592670644324,
+          40.3920509942049
+        ]
+      },
+      "properties": {
+        "Ranking position": 28,
+        "Sovereign Wealth Fund": "State Oil Fund of the Republic of Azerbaijan",
+        "Assets Under Management": 58,
+        "Establishment year": 1999,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "Azerbaijan",
+        "Status": "Established",
+        "Assets Under Management_formated": "$58.0 bn"
+      },
+      "id": "H4P13"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33161660829639,
+          38.8208089190304
+        ]
+      },
+      "properties": {
+        "Ranking position": 29,
+        "Sovereign Wealth Fund": "Texas Permanent School Fund",
+        "Assets Under Management": 56.8,
+        "Establishment year": 1854,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "United States",
+        "Status": "Established",
+        "Assets Under Management_formated": "$56.8 bn"
+      },
+      "id": "UaO7n"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33161660829639,
+          38.8208089190304
+        ]
+      },
+      "properties": {
+        "Ranking position": 30,
+        "Sovereign Wealth Fund": "New Mexico State Investment Council",
+        "Assets Under Management": 53.3,
+        "Establishment year": 1958,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "United States",
+        "Status": "Established",
+        "Assets Under Management_formated": "$53.3 bn"
+      },
+      "id": "UVz1s"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6430958360464,
+          4.543205889917609
+        ]
+      },
+      "properties": {
+        "Ranking position": 31,
+        "Sovereign Wealth Fund": "Brunei Investment Agency",
+        "Assets Under Management": 53,
+        "Establishment year": 1983,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Brunei Darussalam",
+        "Status": "Established",
+        "Assets Under Management_formated": "$53.0 bn"
+      },
+      "id": "efWr6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.69035541428696,
+          -43.82765432544426
+        ]
+      },
+      "properties": {
+        "Ranking position": 33,
+        "Sovereign Wealth Fund": "New Zealand Superannuation Fund",
+        "Assets Under Management": 48.3,
+        "Establishment year": 2001,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "New Zealand",
+        "Status": "Established",
+        "Assets Under Management_formated": "$48.3 bn"
+      },
+      "id": "uJ9OE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.63330303992869,
+          3.6716608556387857
+        ]
+      },
+      "properties": {
+        "Ranking position": 37,
+        "Sovereign Wealth Fund": "Khazanah Nasional",
+        "Assets Under Management": "30.2",
+        "Establishment year": 1993,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Malaysia",
+        "Status": "Established",
+        "Assets Under Management_formated": "$30.2 bn"
+      },
+      "id": "mO3W0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.41680517868062,
+          57.550480044655636
+        ]
+      },
+      "properties": {
+        "Ranking position": 40,
+        "Sovereign Wealth Fund": "Alberta Heritage Savings Trust Fund",
+        "Assets Under Management": "23.4",
+        "Establishment year": 1976,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Canada",
+        "Status": "Established",
+        "Assets Under Management_formated": "$23.4 bn"
+      },
+      "id": "rZAlP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.8548297593985,
+          41.4879065244633
+        ]
+      },
+      "properties": {
+        "Ranking position": 41,
+        "Sovereign Wealth Fund": "Uzbekistan Fund for Reconstruction and Development (UFRD)",
+        "Assets Under Management": 23,
+        "Establishment year": 2006,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Uzbekistan",
+        "Status": "Established",
+        "Assets Under Management_formated": "$23.0 bn"
+      },
+      "id": "7Ix8k"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.95024049562659,
+          -8.809894630601962
+        ]
+      },
+      "properties": {
+        "Ranking position": 42,
+        "Sovereign Wealth Fund": "Timor-Leste Petroleum Fund",
+        "Assets Under Management": "18.47",
+        "Establishment year": 2005,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "Timor-Leste",
+        "Status": "Established",
+        "Assets Under Management_formated": "$18.47 bn"
+      },
+      "id": "pRPSQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -8.261719,
+          53.330873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 43,
+        "Sovereign Wealth Fund": "Ireland Strategic Investment Fund",
+        "Assets Under Management": "18.11",
+        "Establishment year": 2001,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "Ireland",
+        "Status": "Established",
+        "Assets Under Management_formated": "$18.11 bn"
+      },
+      "id": "SqOrm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.540695402276775,
+          26.04798501537066
+        ]
+      },
+      "properties": {
+        "Ranking position": 44,
+        "Sovereign Wealth Fund": "Bahrain Mumtalakat Holding Company",
+        "Assets Under Management": 18,
+        "Establishment year": 2006,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Bahrain",
+        "Status": "Established",
+        "Assets Under Management_formated": "$18.0 bn"
+      },
+      "id": "3JlEe"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.41680517868062,
+          57.550480044655636
+        ]
+      },
+      "properties": {
+        "Ranking position": 46,
+        "Sovereign Wealth Fund": "Quebec’s Generations Fund",
+        "Assets Under Management": "13.66",
+        "Establishment year": 2006,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Canada",
+        "Status": "Established",
+        "Assets Under Management_formated": "$13.66 bn"
+      },
+      "id": "GX0k3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33161660829639,
+          38.8208089190304
+        ]
+      },
+      "properties": {
+        "Ranking position": 47,
+        "Sovereign Wealth Fund": "Permanent Wyoming Mineral Trust Fund",
+        "Assets Under Management": "11.36",
+        "Establishment year": 1974,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "United States",
+        "Status": "Established",
+        "Assets Under Management_formated": "$11.36 bn"
+      },
+      "id": "ee2BX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          106.699219,
+          38.134557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 50,
+        "Sovereign Wealth Fund": "China-Africa Development Fund",
+        "Assets Under Management": 10,
+        "Establishment year": 2007,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "China",
+        "Status": "Established",
+        "Assets Under Management_formated": "$10.0 bn"
+      },
+      "id": "AkRI0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.76863431739216,
+          -37.82938283049967
+        ]
+      },
+      "properties": {
+        "Ranking position": 52,
+        "Sovereign Wealth Fund": "Fondo de Reserva de Pensiones",
+        "Assets Under Management": "9.54",
+        "Establishment year": 2006,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Chile",
+        "Status": "Established",
+        "Assets Under Management_formated": "$9.54 bn"
+      },
+      "id": "CYlKt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.37236579976247,
+          10.415515638298093
+        ]
+      },
+      "properties": {
+        "Ranking position": 57,
+        "Sovereign Wealth Fund": "Heritage and Stabilization Fund",
+        "Assets Under Management": "5.39",
+        "Establishment year": 2000,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "Trinidad and Tobago",
+        "Status": "Established",
+        "Assets Under Management_formated": "$5.39 bn"
+      },
+      "id": "MmqlH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.76863431739216,
+          -37.82938283049967
+        ]
+      },
+      "properties": {
+        "Ranking position": 60,
+        "Sovereign Wealth Fund": "Fondo de Estabilidad Económica y Social",
+        "Assets Under Management": 4.7,
+        "Establishment year": 2007,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Chile",
+        "Status": "Established",
+        "Assets Under Management_formated": "$4.7 bn"
+      },
+      "id": "B5Xj6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85779956995608,
+          -22.236609002062902
+        ]
+      },
+      "properties": {
+        "Ranking position": 61,
+        "Sovereign Wealth Fund": "Pula Fund",
+        "Assets Under Management": 4.52,
+        "Establishment year": 1994,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "Botswana",
+        "Status": "Established",
+        "Assets Under Management_formated": "$4.52 bn"
+      },
+      "id": "fWx76"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          49.394531,
+          29.22889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 63,
+        "Sovereign Wealth Fund": "Gulf Investment Corporation",
+        "Assets Under Management": 3.69,
+        "Establishment year": 1982,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Kuwait",
+        "Status": "Established",
+        "Assets Under Management_formated": "$3.69 bn"
+      },
+      "id": "xNeJq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33161660829639,
+          38.8208089190304
+        ]
+      },
+      "properties": {
+        "Ranking position": 64,
+        "Sovereign Wealth Fund": "Idaho Endowment Fund",
+        "Assets Under Management": 3.41,
+        "Establishment year": 1969,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "United States",
+        "Status": "Established",
+        "Assets Under Management_formated": "$3.41 bn"
+      },
+      "id": "lwvjx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33161660829639,
+          38.8208089190304
+        ]
+      },
+      "properties": {
+        "Ranking position": 66,
+        "Sovereign Wealth Fund": "Alabama Trust Fund",
+        "Assets Under Management": 3.4,
+        "Establishment year": 1985,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "United States",
+        "Status": "Established",
+        "Assets Under Management_formated": "$3.4 bn"
+      },
+      "id": "UoUAM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.91338832758704,
+          16.517347170839393
+        ]
+      },
+      "properties": {
+        "Ranking position": 73,
+        "Sovereign Wealth Fund": "State Capital Investment Corporation",
+        "Assets Under Management": 1.96,
+        "Establishment year": 2006,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Vietnam",
+        "Status": "Established",
+        "Assets Under Management_formated": "$1.96 bn"
+      },
+      "id": "Bs8xM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.839410898545754,
+          -0.628448459921234
+        ]
+      },
+      "properties": {
+        "Ranking position": 74,
+        "Sovereign Wealth Fund": "Fonds Gabonais d’Investissements Stratégiques",
+        "Assets Under Management": 1.89,
+        "Establishment year": 1998,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "Gabon",
+        "Status": "Established",
+        "Assets Under Management_formated": "$1.89 bn"
+      },
+      "id": "lmN4J"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11416196781884,
+          -8.522717984240291
+        ]
+      },
+      "properties": {
+        "Ranking position": 76,
+        "Sovereign Wealth Fund": "Fondo de Estabilización Fiscal",
+        "Assets Under Management": 1.83,
+        "Establishment year": 1999,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Peru",
+        "Status": "Established",
+        "Assets Under Management_formated": "$1.83 bn"
+      },
+      "id": "5zToT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33161660829639,
+          38.8208089190304
+        ]
+      },
+      "properties": {
+        "Ranking position": 77,
+        "Sovereign Wealth Fund": "Louisiana Education Quality Trust Fund",
+        "Assets Under Management": 1.57,
+        "Establishment year": 1986,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "United States",
+        "Status": "Established",
+        "Assets Under Management_formated": "$1.57 bn"
+      },
+      "id": "TMn5W"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.39024189323504,
+          1.8676673749241066
+        ]
+      },
+      "properties": {
+        "Ranking position": 78,
+        "Sovereign Wealth Fund": "Revenue Equalization Reserve Fund",
+        "Assets Under Management": 1.523,
+        "Establishment year": 1956,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Kiribati",
+        "Status": "Established",
+        "Assets Under Management_formated": "$1.523 bn"
+      },
+      "id": "hip0g"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24251184154588,
+          31.930818736453883
+        ]
+      },
+      "properties": {
+        "Ranking position": 83,
+        "Sovereign Wealth Fund": "Palestine Investment Fund",
+        "Assets Under Management": 0.957,
+        "Establishment year": 2003,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "Yes",
+        "Country": "Palestinian Territory",
+        "Status": "Established",
+        "Assets Under Management_formated": "$0.957 bn"
+      },
+      "id": "DDcFI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          53.085938,
+          26.115986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Ranking position": 85,
+        "Sovereign Wealth Fund": "Future Generations Fund",
+        "Assets Under Management": 0.68,
+        "Establishment year": 2006,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Bahrain",
+        "Status": "Established",
+        "Assets Under Management_formated": "$0.68 bn"
+      },
+      "id": "VDADk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.425456672353823,
+          1.5954643936590733
+        ]
+      },
+      "properties": {
+        "Ranking position": 92,
+        "Sovereign Wealth Fund": "Fund for Future Generations",
+        "Assets Under Management": 0.165,
+        "Establishment year": 2002,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Equatorial Guinea",
+        "Status": "Established",
+        "Assets Under Management_formated": "$0.165 bn"
+      },
+      "id": "YUoqZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.495079045035716,
+          20.466731212820022
+        ]
+      },
+      "properties": {
+        "Ranking position": 93,
+        "Sovereign Wealth Fund": "National Fund for Hydrocarbon Reserves",
+        "Assets Under Management": 0.159,
+        "Establishment year": 2006,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Mauritania",
+        "Status": "Established",
+        "Assets Under Management_formated": "$0.159 bn"
+      },
+      "id": "8qJmW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.36492135985132,
+          7.148324760507107
+        ]
+      },
+      "properties": {
+        "Ranking position": 97,
+        "Sovereign Wealth Fund": "Fondo para la Estabilización Macroeconómica",
+        "Assets Under Management": 0.03,
+        "Establishment year": 1998,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Venezuela",
+        "Status": "Established",
+        "Assets Under Management_formated": "$0.03 bn"
+      },
+      "id": "v8stM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.419827574282188,
+          -3.338629596207896
+        ]
+      },
+      "properties": {
+        "Ranking position": 100,
+        "Sovereign Wealth Fund": "Fonds de Stabilisation des Recettes Budgétaires et Réserves pour Générations Futures",
+        "Assets Under Management": 0.02,
+        "Establishment year": 2005,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Congo DRC",
+        "Status": "Established",
+        "Assets Under Management_formated": "$0.02 bn"
+      },
+      "id": "VMMy7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3851856901788,
+          7.657782041763295
+        ]
+      },
+      "properties": {
+        "Ranking position": 103,
+        "Sovereign Wealth Fund": "Oil Revenue Stabilization Fund",
+        "Assets Under Management": "Not Available",
+        "Establishment year": 2008,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "South Sudan",
+        "Status": "Established"
+      },
+      "id": "33KrE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4577357627054,
+          39.06069118001429
+        ]
+      },
+      "properties": {
+        "Ranking position": 104,
+        "Sovereign Wealth Fund": "Turkmenistan Stabilization Fund",
+        "Assets Under Management": "Not Availabla",
+        "Establishment year": 2008,
+        "Type": "Pre-2010 SWFs",
+        "IFSW Member": "No",
+        "Country": "Turkmenistan",
+        "Status": "Established"
+      },
+      "id": "g5Zuo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          149.589844,
+          16.467695
+        ],
+        "type": "Point"
+      },
+      "properties": {},
+      "id": "dOs7Q"
+    }
+  ]
+}

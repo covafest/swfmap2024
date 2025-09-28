@@ -1,162 +1,254 @@
-
+/* ================================
+   Estilos base
+================================ */
 body {
-  font-family: Montserrat;
+  font-family: Montserrat, Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.8;
+  line-height: 1.7rem;
   margin: 0;
   color: #0a1d37;
   background-color: #fff;
 }
 
-h1 {
-  font-family: 'Montserrat', sans-serif;
-  font-size:3rem;
-  line-height: 3rem;
-  color:#fff;
+p {
+  text-align: justify;
+  /* margin-top: 1rem; */
 }
 
+/* ================================
+   Titulares y texto destacado
+================================ */
 h2 {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 2rem;
-  line-height: 1.5rem;
+  font-size: 1.2rem;
+  line-height: 1.4rem;
+  padding: 0;
+  margin: 0;
+  color: navy;
+  text-align: left;
 }
 
-.byline {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 0.9rem;
+.titulo-grafico {
+  font-size: 1rem;
   font-weight: bold;
-  line-height: 0;
-  color: navy;
+  line-height: 1.2rem;
   margin-bottom: 0rem;
-  text-transform: uppercase;
+  text-align: left;
+}
+
+.unidad {
+  font-size: .9rem !important;
+  margin-top: .5rem;
+  line-height: 1.3rem;
 }
 
 .destacado {
   font-weight: 550;
-
 }
 
-.fuente {
-  color: navy;
+.line {
+  border: none;
+  border-top: .6px solid rgb(190, 190, 190);
+  padding-bottom: .5rem;
 }
 
+/* ================================
+   Imágenes
+================================ */
+.imagen-portada {
+  width: 100vw;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+.img-byline {
+  display: block;
+  margin-top: .2rem;
+  margin-left: .8rem;
+  width: 100vw;
+  object-fit: cover;
+  font-size: .8rem;
+}
+
+/* ================================
+   Header
+================================ */
 header {
   position: relative;
   height: auto;
-  width: 80%;
+  width: 60%;
   margin: 0 auto;
   background: #fff;
   overflow: visible;
   padding-top: 2.5rem;
-  padding-bottom: 1.5rem;
   box-shadow: none;
 }
 
-.header-content {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start; /* alinea a la izquierda */
-  text-align: left;        /* texto alineado a la izquierda */
-  width: 100%;
-}
-
 .header-content h1 {
-  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
-  font-size: 4rem;
+  font-size: 1.8rem;
   font-weight: 900;
-  line-height: 1.1;
-  color: #111;
+  line-height: 1.2;
   text-align: left;
-  margin: 0 0 .5rem 0;
-  letter-spacing: -1px;
+  margin: 0 0 1rem 0;
+  letter-spacing: -.7px;
   text-shadow: none;
 }
 
 .header-content .byline {
-  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
-  font-size: 1.2rem;
   font-weight: 600;
   color: navy;
-  margin-bottom: .5rem;
   line-height: 1.2;
   text-align: left;
-  text-transform: none;
   text-transform: uppercase;
 }
 
-.header-content p {
-  font-weight: 600;
-}
-
-iframe {
-  width: 100%;
-  max-width: 100vw;
-  border: none;
-  display: block;
+/* ================================
+   Contenedores
+================================ */
+.container-simple {
+  position: relative;
+  height: auto;
+  margin: 0 auto;
+  background: #fff;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  box-shadow: none;
 }
 
 .container {
   position: relative;
   height: auto;
-  width: 80%;
+  width: 60%;
   margin: 0 auto;
   background: #fff;
   overflow: visible;
-  padding-top: 2.5rem;
+  padding-top: 1.5rem;
   padding-bottom: 1.5rem;
   box-shadow: none;
+  flex: 1;
 }
 
-
+/* ================================
+   Scrollytelling
+================================ */
 .scrolly {
   position: relative;
   display: flex;
+  gap: 1rem;
+}
+
+.scrolly-map {
+  flex: 1;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  z-index: 1;
 }
 
 .sticky-graphic {
-  position: sticky;
-  top: 0;
-  height: 100vh;   /* el mapa ocupa toda la pantalla */
-  flex: 1;
+  width: 100%;
+  height: 100%;
 }
 
 .scrolly-steps {
   flex: 1;
   margin: 0 2em;
+  z-index: 2;
 }
 
 .step {
   margin: 80vh 0;
   padding: 2em;
-  background: rgba(255,255,255,0.9);
+  background: rgba(255, 255, 255, 0.9);
   border-radius: 8px;
-  color:#afafaf;
-}
-
-.step.is-active {
   color: #0a1d37;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
 }
 
-/* Responsive styles */
-@media (max-width: 600px) {
-  header {
-    height: 40vh;
+/* ================================
+   Footer / Disclaimer
+================================ */
+.disclaimer {
+  background: #000080; /* navy */
+  color: #fff;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-size: .75rem;
+  padding: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 0;
+  text-align: left;
+}
+
+.disclaimer p {
+  margin: 0;
+  letter-spacing: 0.5px;
+}
+
+.disclaimer a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.disclaimer a:hover,
+.disclaimer a:focus {
+  color: #ffff; /* azul eléctrico al pasar el mouse */
+}
+
+/* ================================
+   Media queries para responsive
+================================ */
+
+/* Tablets */
+@media (max-width: 1024px) {
+  .scrolly {
+    position: relative;
   }
-  h1 {
-    font-size: 1.3rem;
+
+  .scrolly-map {
+    position: fixed;   /* mapa fijo detrás */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 1;
   }
-  .container {
-    padding: 0 0.5rem;
-  }
-  .step {
-    padding: 1rem;
-    font-size: 1rem;
-    margin-bottom: 30vh;
-  }
-  .sticky-graphic {
-    font-size: 2rem;
-  }
+
   .scrolly-steps {
-    padding: 2vh 0.5rem;
+    position: relative;
+    z-index: 2;        /* pasos encima del mapa */
+    margin: 0;
+    padding: 0;
+  }
+
+  .step {
+    margin: 70vh auto;   /* deja espacio para ver el mapa al hacer scroll */
+    max-width: 85%;
+    background: rgba(255, 255, 255, 0.85);
+    border-radius: 8px;
+    padding: 1.5rem;
+  }
+}
+
+/* Móviles */
+@media (max-width: 768px) {
+  .scrolly-map {
+    height: 100vh;
+  }
+
+  .step {
+    margin: 60vh auto;
+    max-width: 90%;
+    padding: 1rem;
+  }
+}
+
+/* Extra pequeñas */
+@media (max-width: 480px) {
+  .step {
+    margin: 55vh auto;
+    max-width: 95%;
+    padding: 0.8rem;
   }
 }

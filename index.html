@@ -343,7 +343,7 @@
         L.geoJSON(data, {
           pointToLayer: (feature, latlng) => {
             const aum = feature.properties["aum_total"] || 0;
-            const radius = Math.log10(aum + 1) * 8;
+            const radius = Math.log10(aum + 1);
 
             return L.circleMarker(latlng, {
               radius: radius,
@@ -398,7 +398,7 @@
       .onStepEnter(response => {
         const stepData = steps[response.index + 1];
         if (stepData) {
-          map.flyTo(stepData.coords, stepData.zoom, { duration: 2 });
+          map.flyTo(stepData.coords, stepData.zoom, { duration: 1.5 });
         }
       });
 
